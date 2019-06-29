@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "632246093115",
+    "firebase_url": "https://photoeditor-a0370.firebaseio.com",
+    "project_id": "photoeditor-a0370",
+    "storage_bucket": "photoeditor-a0370.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632246093115:android:56e7a1c5a9420305",
+        "android_client_info": {
+          "package_name": "com.appsco.photoeditor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632246093115-d6bqnsc73es2qor33r8270rhoc9agq5c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsco.photoeditor",
+            "certificate_hash": "7010a54b0650d4958aa154722c02ef27dd74ad57"
+          }
+        },
+        {
+          "client_id": "632246093115-smia5i7325vcd9au83p52gc1m3nka1qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBHfTALH_AidCpWRFU2GBLtF7lR2lanP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632246093115-smia5i7325vcd9au83p52gc1m3nka1qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="wrap_content"
+              android:orientation="vertical"
+              android:layout_height="wrap_content">
+
+
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+        <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="100dp" app:srcCompat="@drawable/pink" android:id="@+id/pink"
+                android:layout_weight="1"/>
+        <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="100dp" app:srcCompat="@drawable/purple" android:id="@+id/puple"
+                android:layout_weight="1"/>
+    </LinearLayout>
+
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+        <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="100dp" app:srcCompat="@drawable/majanta"
+                android:layout_weight="1" android:id="@+id/majanta"/>
+        <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="100dp" app:srcCompat="@drawable/white"
+                android:layout_weight="1" android:id="@+id/white"/>
+    </LinearLayout>
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+        <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="100dp" app:srcCompat="@drawable/green"
+                android:layout_weight="1" android:id="@+id/green"/>
+
+    </LinearLayout>
+</LinearLayout>
